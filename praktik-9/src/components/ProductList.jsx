@@ -9,9 +9,9 @@ const ProductList = () => {
   const products = [
     {
       id: 1,
-      name: "Iphone 17",
-      price: 30000000,
-      description: "Iphone 17 1Tb",
+      name: "Monitor Asus",
+      price: 1700000,
+      description: "Monitor",
     },
     {
       id: 2,
